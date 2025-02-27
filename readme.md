@@ -1,6 +1,6 @@
 # ✨ AI-Powered ATS Resume Checker ✨
 
-![AI-Powered ATS Resume Checker Screenshot](assets/screenshot.png)
+![AI-Powered ATS Resume Checker Screenshot](assets/image.png)
 
 ## 🚀 Tired of your resume disappearing into the black hole of ATS?
 
