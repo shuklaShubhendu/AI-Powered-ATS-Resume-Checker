@@ -5,7 +5,7 @@ import re
 import os
 from openai import OpenAI
 from dotenv import load_dotenv
-
+#this is sample change done for the appmod ai
 # Load environment variables
 load_dotenv()
 client = OpenAI()
