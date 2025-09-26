@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 client = OpenAI()
-
+#MORE CHANGES FOR APPMOD
 # Function to extract text from PDF using pdfplumber
 def extract_text_from_pdf(uploaded_file):
     text = ""
